@@ -22,7 +22,7 @@ Did you think it is possible without emotion logic?
 Yes, possible. Of course hard code or machine learning can create fight-girl either.
 But It is important that she can decide to do anything herself by using EMOTIONAL-CORE.
 Fight or escape, attack or defend or dodge, almost of all decision is decided through EMOTIONAL-CORE.
-So, Our ultimate Goal is to create complete EMOTIONAL-CORE!
+So, Our ultimate Goal is to create EMOTIONAL-CORE and the completely independent girl can work herself!
 
 # Plan
 
